@@ -1,7 +1,7 @@
 ## Interface: 11200
-## Title: |cff008000Turtle |cff1974d2Dragonflight
-## Author: Youtube.com/@TheLinuxITGuy
-## Notes: The Dragonflight UI for Turtle WoW.
+## Title: |cff008000Turtle |cff1974d2Dragonflight|r SA
+## Author: Youtube.com/@TheLinuxITGuy, HeadyZmoK, TonyG-Bot, OmegaZeroXIII
+## Notes: Versión modificada de Dragonflight UI para Turtle WoW SA.
 ## Version: GIT
 ## DefaultState: enabled
 ## SavedVariables: SUCC_bagOptions
@@ -104,7 +104,7 @@ tDefaultMicroMenu.lua
 tBagIcons.lua
 tReducedActionBar.lua
 tUnitframes.lua
-tChatFrame.lua
+#tChatFrame.lua
 tMainActionBar.lua
 tGryphons.lua
 tFont.lua
