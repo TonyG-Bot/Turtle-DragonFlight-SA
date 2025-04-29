@@ -14,7 +14,8 @@ do -- Prayer of Healing
   local locales = {
     ["deDE"] = "Gebet der Heilung",
     ["enUS"] = "Prayer of Healing",
-    ["esES"] = "Rezo de curación",
+    --["esES"] = "Rezo de curación",
+    ["esES"] = "Oración de Sanación",--SA
     ["frFR"] = "Prière de soins",
     ["koKR"] = "치유의 기원",
     ["ruRU"] = "Молитва исцеления",
