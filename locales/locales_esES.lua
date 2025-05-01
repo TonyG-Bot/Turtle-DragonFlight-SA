@@ -130,6 +130,10 @@ tDFUI_locale["esES"]["critters"] = {
   'Voz de Elune',
   'Waypoint',
   'Fuego fatuo',
+  'Cerdo',
+  'Cuervo',
+  'Gallina',
+  'Vibora',
 }
 
 tDFUI_locale["esES"]["dyndebuffs"] = {
