@@ -209,9 +209,11 @@ tDFUI_locale["esES"]["interrupts"] = {
 
 tDFUI_locale["esES"]["resurrections"] = {
   ["Resurrección"] = true,
-  ["Renacer"] = true,
+  --["Renacer"] = true,
+  ["Renacimiento"] = true,--SA
   ["Redención"] = true,
-  ["Espíritu ancestral"] = true,
+  --["Espíritu ancestral"] = true,
+  ["Espíritu Ancestral"] = true,--SA
 }
 
 tDFUI_locale["esES"]["spells"] = {
