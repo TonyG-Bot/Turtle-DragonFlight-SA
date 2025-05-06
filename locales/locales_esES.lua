@@ -134,6 +134,8 @@ tDFUI_locale["esES"]["critters"] = {
   'Cuervo',
   'Gallina',
   'Vibora',
+  'Rata Contaminada',
+  'Cucaracha Contaminada',
 }
 
 tDFUI_locale["esES"]["dyndebuffs"] = {
